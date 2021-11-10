@@ -1,6 +1,6 @@
 # Alice Hsing ---  @alicehsing
 
-<img src = "topImg.png" alt = "banner that says Alice Hsing - software developer, yogi, dog & human parent, realtor" width = "800px" height = "200px", align = "center">
+![Image of Banner](./topImg.png)
 
 
 Hi, I'm Alice 👋  :smiley:  --- a hardworking creative self-starter who is passionate about web design and solving problems. I love to cook, hike and do home remodeling projects on the side. Currently, I'm enrolled in a full-time software development training program with @alchemycodelab.
