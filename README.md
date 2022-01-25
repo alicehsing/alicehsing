@@ -3,7 +3,7 @@
 ![Image of Banner](./topImg.png)
 
 
-Hi, I'm Alice 👋  :smiley: --- a hardworking creative self-starter who is passionate about web design and solving problems. I love to cook, hike and enjoy doing home remodeling projects on the side. Currently, I'm enrolled in a full-time full-stack web development training program with [Alchemy Code Lab](https://www.alchemycodelab.com/).
+Hi, I'm Alice 👋  :smiley: --- a hardworking creative self-starter who is passionate about web design and solving problems. I love to cook, hike and enjoy doing home remodeling projects on the side. Currently, I'm enrolled in a full-time full stack web development training program with [Alchemy Code Lab](https://www.alchemycodelab.com/).
 
 ## My Values
 
