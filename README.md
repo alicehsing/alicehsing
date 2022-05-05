@@ -3,14 +3,14 @@
 ![Image of Banner](./topImg.png)
 
 
-Hi, I'm Alice 👋  :smiley: --- I am a software developer who is passionate about uplifting others and solving problems. I find joy in getting to know people and their stories. I bring with me a diverse background in real estate and a career in recruitment. I enjoy using technologies to create empathetic solutions. I speak 3 languages, however, my love for languages don't start here. Currently, I am immersed in JavaScript and React, and I look forward to getting my hands on Python and Ruby.
+Hi, I'm Alice 👋  :smiley: --- I am a PERN stack software developer who is passionate about uplifting others and solving problems. I find joy in getting to know people and their stories. I bring with me a diverse background in real estate and in recruitment. I enjoy using technologies to create empathetic solutions. I speak 3 languages, however, my love for languages don't start here. Currently, I am immersed in JavaScript and React, and I look forward to getting my hands on Python and Ruby.
 
 ## Tech Stack
-* Language: HTML, CSS, JavaScript
-* Frameworks/Libraries: React
-* Version Control: GItHub
-* Tools: Git, Netlify, VSCode, Slack
-* Database: Supabase
+* Language: HTML5, CSS3, JavaScript
+* Frameworks/Libraries: React, Node.js, Express
+* Version Control: GitHub
+* Tools: Git, Netlify, VSCode, Slack, Heroku, Miro
+* Database: PostgreSQL, Supabase
 * Dev Practices: TDD, Pair/Mob Programming
 
 ## How I Work
