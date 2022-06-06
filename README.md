@@ -3,7 +3,7 @@
 ![Image of Banner](./topImg.png)
 
 
-Hi, I'm Alice 👋  :smiley: --- I am a Pragmatic problem-solver, compassionate team builder, and communicative collaborator who is passionate about uplifting others and getting to know people and their stories. User-focused PERN stack developer with a diverse background in real estate and recruitment, I have a drive to continually learn and improve, a knack for achieving goals through dedication and I look forward to using technologies to create empathetic solutions. I speak 3 languages, however, my love for languages doesn't start here. Currently, I am immersed in JavaScript and React, and I look forward to getting my hands on Python and Ruby.
+Hi, I'm Alice 👋  :smiley: --- I am a Pragmatic problem-solver, compassionate team builder, and communicative collaborator who is passionate about uplifting others and getting to know people and their stories. User-focused PERN stack developer with a diverse background in real estate and recruitment, I have a drive to continually learn and improve, a knack for achieving goals through dedication and I look forward to using technologies to create empathetic solutions. I speak 3 languages, however, my love for languages doesn't end here. Currently, I am immersed in JavaScript and React, and I look forward to getting my hands on Python and Ruby.
 
 ## Tech Stack
 * Language: HTML5, CSS3, JavaScript
